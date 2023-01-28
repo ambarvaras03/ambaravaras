@@ -1,0 +1,299 @@
+*{
+    margin: 5px;
+    padding: 5px;
+    box-sizing: border-box;
+    font-size: 14px;
+}
+div.cont-global{
+    position: relative;
+   display: flex;
+   justify-content: center;
+   
+}
+   div.cont-izq{
+    background-color: rgb(46, 64, 83 );
+    width: 230px;
+    height: 1050px;
+
+}
+div.imagen-perfil{
+    display: flex;
+}
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-left: 1px;
+}
+div.titulo{
+    position: relative;
+    display: flex;
+
+}
+div.currrim{
+    margin-top: -10%;
+    text-align: center;
+    margin-left: 30px;
+    color: rgb(255, 253, 253);
+}
+div.D-personales{
+    position: relative;
+    display: flex;
+}
+div.datos-P{
+    margin-top:-30px ;
+    margin-left:-10px;
+    color: rgb(255, 253, 253);
+    border-top: white 1px solid;
+    width: 600px;
+}
+div.icono-usuario{
+    display: flex; 
+}
+div.Nombres{
+    position: relative;
+    display: flex;
+}
+div.miNombre{
+    text-align: center;
+    margin-top: -30px;
+    margin-left:-1px;
+    color: rgb(255, 253, 253);
+}
+i{
+    margin-top: -30px;
+    margin-left: 5px;
+    margin-bottom: 30px;
+    color: rgb(255, 255, 255);
+}
+div.correo{
+    position: relative;
+    display: flex;
+}
+div.gmail{
+    text-align: center;
+    margin-top: -30px;
+    margin-left:-1px;
+    color: rgb(255, 253, 253);
+}
+div.contacto{
+    position: relative;
+    display: flex;
+}
+div.Telefono{
+    text-align: center;
+    margin-top: -30px;
+    margin-left:-1px;
+    color: rgb(255, 253, 253);
+}
+div.direccion{
+    position: relative;
+    display: flex;
+}
+div.ubi{
+    margin-left:-1px;
+    margin-top: -30px;
+    color: rgb(255, 253, 253);
+}
+div.tex-programas{
+    position: relative;
+    display: flex;
+}
+div.text-programa{
+    margin-top: -30px;
+    margin-left:-7px;
+    color: rgb(255, 253, 253);
+    border-top: white 1px solid;
+    width: 600px;
+}
+div.programas-python{
+    position: relative;
+    display: flex;
+    
+}
+img.p{
+    width: 30px;
+    height: 30px;
+    margin-left: 5px;
+    margin-top: -5px;
+
+}
+div.programas-css{
+    position: relative;
+    display: flex;
+}
+div.pr{
+    margin-top: -10px;
+    color: rgb(255, 253, 253);
+}
+div.programas-java{
+    position: relative;
+    display: flex;
+}
+div.programas-html{
+    position: relative;
+    display: flex;
+}
+div.cont-dere{
+    flex-direction: column;
+    background-color: rgb(255, 255, 255);
+    width: 590px;
+    height: 1050px;
+}
+div.segundo-perfil{
+    position: relative;
+    display: flex;
+}
+div.text-perfil{
+    margin-top:-10px ;
+    border-top: rgb(192, 189, 189) 0.5px solid;
+    width: 550px;  
+}
+div.text{
+    position: relative;
+    display: flex;
+    flex-flow: row wrap;
+}
+div.contenido{
+   margin-top:-30px ;
+   margin-left: 10px;
+   color: rgb(94, 97, 97);
+   
+}
+div.text-Exp{
+    position: relative;
+    display: flex;
+}
+div.textoEx{
+    margin-top:-20px ;
+    border-top: rgb(192, 189, 189) 0.5px solid;
+    width: 550px;
+    
+
+}
+div.fecha{
+    position: relative;
+    display: flex;
+}
+div.fechaa{
+    margin-top:-30px ;
+}
+div.experiencia{
+    position: relative;
+    display: flex;
+    flex-flow: row wrap;
+}
+div.datos-Experiencas{
+    margin-top:-80px;
+    margin-left: 250px;
+    margin-top: -60px;
+    color: rgb(94, 97, 97);
+    
+}
+div.texto-tres{
+    position: relative;
+    display: flex; 
+}
+div.textotres{
+ margin-left:230px;
+ margin-top:-70px ;  
+}
+div.fecha-dos{
+    position: relative;
+    display: flex;
+}
+div.fechados{
+    margin-top:-30px ;
+}
+div.experiencia-dos{
+    position: relative;
+    display: flex;
+    flex-flow: row wrap;
+}
+div.datos-Experiencasdos{
+    margin-top:-80px;
+    margin-left: 250px;
+    margin-top: -60px;
+    color: rgb(94, 97, 97);
+}
+div.trexto-cuatro{
+    position: relative;
+    display: flex; 
+}
+div.textocuatro{
+ margin-left:230px;
+ margin-top:-70px ;  
+}
+div.text-formacion{
+    position: relative;
+    display: flex; 
+}
+div.textfor{
+margin-top: -50px;
+border-top: rgb(192, 189, 189) 0.5px solid;
+    width: 550px;
+
+}
+div.fecha-cinco{
+    position: relative;
+    display: flex; 
+}
+div.fechacinco{
+    margin-top: -30px;
+}
+div.texto-hiper{
+    position: relative;
+    display: flex; 
+}
+div.hipermark{
+    color: rgb(94, 97, 97);
+    margin-top: -60px;
+    margin-left: -270px;
+}
+div.Dismero{
+    color: rgb(94, 97, 97);
+    margin-left: 258%;
+    margin-top: -230px;
+    
+}
+div.GranAki{
+    color: rgb(94, 97, 97);
+    margin-top: -60px;
+    margin-left: -270px;
+}
+div.formacion{
+    position: relative;
+    display: flex; 
+    flex-flow: row wrap;
+}
+div.TDformacion{
+   margin-left: 225px;
+   margin-top: -65px;
+}
+div.text-Referencia{
+    position: relative;
+    display: flex;   
+}
+div.txt-Referencias{
+    margin-top: -20px;   
+}
+div.texto-univer{
+    position: relative;
+    display: flex;
+    border-top: rgb(192, 189, 189) 0.5px solid;
+    width: 550px; 
+}
+div.Univer{
+    margin-top: -50px; 
+    color: rgb(94, 97, 97);  
+    margin-left: 230px; 
+}
+div.Referencias{
+    position: relative;
+    display: flex;
+      
+}
+div.Todas-Referencias{
+    margin-top: -40px;  
+    color: rgb(94, 97, 97);
+}
